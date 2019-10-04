@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "studentid": "12345",
+      "zipcode": "123467",
+      "mobileNumber": "12367890654",
+      "gender": "male",
+      "course": "ReactJs"
+    }
+    
+  ]
+}
